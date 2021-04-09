@@ -1,2 +1,1 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# A basic game design with the mc having basic movements
